@@ -1,5 +1,7 @@
 # Deploying ReactJS app at Netlify
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ced5877-51b6-42ea-a955-6c0c55416002/deploy-status)](https://app.netlify.com/sites/admiring-jang-5957b7/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
